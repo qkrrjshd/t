@@ -1,0 +1,19 @@
+- ls -
+- touch -
+- rm *.txt -
+-clear
+-cat
+
+git
+-git init
+-git status
+-git add
+-git commit - 
+
+3주차 
+- linux 명령어 기초 복습 (ls touch cat)
+- git 명령어 기초복습 (init add commit log status push등)
+- git clone "원격리포지토리 주소".
+- git config --list
+- git remote remove origin (기존의 원격리포지토리 주로슬 변경하려면 삭제를 해야 한다.)
+- git remote add origin "연결할 원격리포지토리 주소"

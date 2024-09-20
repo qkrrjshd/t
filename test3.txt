@@ -3,7 +3,7 @@
 - rm *.txt -
 -clear
 -cat
-
+1
 git
 -git init
 -git status
